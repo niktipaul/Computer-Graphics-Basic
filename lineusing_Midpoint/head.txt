@@ -1,0 +1,5 @@
+P5
+# This is my header file
+200 200
+255
+
